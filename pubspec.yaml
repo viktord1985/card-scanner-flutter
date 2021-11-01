@@ -1,8 +1,8 @@
 name: card_scanner
 description: Fast, Accurate and Secure Credit & Debit card scanning library for flutter.
 version: 1.0.0-prerelease
-homepage: https://github.com/nateshmbhat/card-scanner-flutter
-repository: https://github.com/nateshmbhat/card-scanner-flutter
+homepage: https://github.com/viktord1985/card-scanner-flutter
+repository: https://github.com/viktord1985/card-scanner-flutter
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
